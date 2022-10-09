@@ -1,0 +1,10 @@
+.sign-btn button{
+    font-size: 12px;
+    position:relative;
+    left:10px;
+    background-color: #232627;
+    color:rgb(0, 183, 255);
+    padding:3px 15px;
+    border-color: rgb(0, 191, 255);
+    cursor: pointer;
+}

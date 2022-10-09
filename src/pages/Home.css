@@ -1,0 +1,13 @@
+.home{
+    display:flex;
+}
+.menu-bar{
+    flex:0.1;
+    background-color:#232627;
+    height:100vh;
+
+}
+.body-part{
+    flex:0.9;
+    background-color: #181818;
+}

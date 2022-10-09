@@ -1,0 +1,25 @@
+.nav-bar{
+    height:50px;
+    color:white;
+}
+.nav-bar > input{
+    width:40%;
+    padding:5px 15px;
+    margin:10px;
+    margin-left:300px;
+    border:1px solid white;
+    outline:0;
+    background-color: black;
+    color:white;
+}
+.nav-bar button{
+    font-size: 12px;
+    position:relative;
+    left:10px;
+    background-color: #232627;
+    color:rgb(0, 183, 255);
+    padding:5px 15px;
+    border-color: rgb(0, 191, 255);
+    position:relative;
+    left:230px;
+}

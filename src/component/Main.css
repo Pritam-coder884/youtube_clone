@@ -1,0 +1,21 @@
+.main-class{
+    color:white;
+    display: flex;
+    flex-wrap: wrap;
+    gap:1rem;
+    margin:1% 12%;
+}
+.playlist-card{
+  position: relative;
+  width:200px;
+  height:190px;
+  background-color:black;
+  /* margin: 2%; */
+  cursor: pointer;
+}
+.playlist-card img{
+    width:200px;
+}
+.playlist-card:hover{
+    transform: scale(1.07);
+}
